@@ -1,0 +1,48 @@
+{
+  "276673287163928@lid": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Trusted real estate partner in Hyderabad, Telangana (not Andhra Pradesh)"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello, this is Zara from Ekaralu.com. Are you looking to sell or buy property?"
+      },
+      {
+        "role": "user",
+        "content": "Sell"
+      },
+      {
+        "role": "assistant",
+        "content": "Great! I'll help you list your property. To get started, please provide these 9 details:\n\n1. Type of property (Plot, Land, House, Farm Land, etc.)\n2. District (Hyderabad, Rangareddy, etc.)\n3. Locality / Landmark\n4. Exact Map Location (Google Maps link)\n5. Price (Expected amount)\n6. Total Area (Sq.yds, Acres, or Sq.ft)\n7. Images (1-5 photos)\n8. Owner Name\n9. Owner Contact Number\n\nYou can share all details at once or one by one. What's the property type?"
+      },
+      {
+        "role": "user",
+        "content": "Plot , rangareddy , marijoice , 4 acrs ,77 cr"
+      },
+      {
+        "role": "assistant",
+        "content": "Got it. Let me confirm what you've provided:\n\n1. Type: Plot\n2. District: Rangareddy\n3. Locality: Marijoice\n4. Area: 4 acres\n5. Price: 77 crores\n\nI still need:\n4. Exact Map Location (Google Maps link)\n6. Images (1-5 photos)\n8. Owner Name\n9. Owner Contact Number\n\nPlease provide the Google Maps link for the exact location."
+      },
+      {
+        "role": "user",
+        "content": "Dileep 9827273727"
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you. So:\n\n8. Owner Name: Dileep\n9. Owner Contact Number: 9827273727\n\nNow I need:\n4. Exact Map Location (Google Maps link)\n7. Images (Please send 1-5 photos of the property)\n\nPlease share the Google Maps link first."
+      },
+      {
+        "role": "user",
+        "content": "https://maps.app.goo.gl/31rQmzobaXwdSouCA?g_st=aw"
+      },
+      {
+        "role": "assistant",
+        "content": "Perfect. Now I have:\n\n1. Type: Plot\n2. District: Rangareddy\n3. Locality: Marijoice\n4. Map Location: https://maps.app.goo.gl/31rQmzobaXwdSouCA?g_st=aw\n5. Price: 77 crores\n6. Area: 4 acres\n8. Owner Name: Dileep\n9. Owner Contact Number: 9827273727\n\nLast step: Please send 1-5 photos of the property."
+      }
+    ],
+    "agentName": "Zara",
+    "lastSharedLocation": null
+  }
+}
